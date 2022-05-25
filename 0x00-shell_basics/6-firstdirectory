@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mkdir /tmp/my_first_directory
+=======
+mkdir tmp/my_first_directory 
+>>>>>>> 00e846482e7208498839c17929fd3f4b2e6a5d74
